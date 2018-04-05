@@ -1,1 +1,1 @@
-# golang-crud-web-rest-api
+# go-rest-web-crud-api
